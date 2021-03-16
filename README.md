@@ -1,6 +1,6 @@
 # NGSIM Cleaned Dataset
 
-We took some effort to clean the [Next Generation Simulation (NGSIM)](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) dataset. We are excited to share with traffic researchers and engineers who are in need of a cleaner version.
+We took some effort to reconstructed the [Next Generation Simulation (NGSIM)](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) dataset. We are excited to share with traffic researchers and engineers who are in need of a cleaner version. The reconstruction study paper will be published soon.
 
 Here are some comparison with the raw data
 
